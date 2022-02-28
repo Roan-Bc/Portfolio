@@ -12,4 +12,6 @@ E agora vou mostrar como deixei a minha versão:
 
 ![2022-02-27 21-02-05](https://user-images.githubusercontent.com/56409084/155905804-015c1978-e2fa-41bc-bd64-ac1df7460158.gif)
 
+Link para acessar o site: https://roan-bc.github.io/Portfolio/
+
 
